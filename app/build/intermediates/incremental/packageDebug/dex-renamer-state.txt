@@ -1,0 +1,7 @@
+#Sat Mar 11 16:57:44 AEDT 2017
+base.0=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8a9d43872104f6c6344895e5870587f2a10ba254
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_09a8563c73378951e2dcc663c0d29d6cbaf3a696\\classes.dex
+base.1=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_09a8563c73378951e2dcc663c0d29d6cbaf3a696
+file.0=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8a9d43872104f6c6344895e5870587f2a10ba254\\classes.dex

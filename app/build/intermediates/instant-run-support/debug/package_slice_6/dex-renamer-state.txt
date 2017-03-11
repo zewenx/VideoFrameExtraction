@@ -1,0 +1,4 @@
+#Sat Mar 11 17:02:07 AEDT 2017
+base.0=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex

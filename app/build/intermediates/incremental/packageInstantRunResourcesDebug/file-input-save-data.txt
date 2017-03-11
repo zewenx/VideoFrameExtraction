@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Sat Mar 11 16:57:37 AEDT 2017
+2.base=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_audio_decoder.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.base=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\code\\ExoPlayer-release-v2\\MediaCodecExample-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_audio_decoder.xml
+0.set=ANDROID_RESOURCE
